@@ -11,3 +11,4 @@ Route::get('/user', function (Request $request) {
 Route::get("test", function(){
     print_r("test api");
 });
+
